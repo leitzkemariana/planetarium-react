@@ -6,7 +6,7 @@ export default function Gasosos(){
     return (
         <div>
             <Menu/>
-            <main className="p-10">
+            <main className="p-10 bg-black">
                 <PostEsquerda urlImagem={"https://png.pngtree.com/png-vector/20240923/ourmid/pngtree-jupiter-planet-image-on-white-background-png-image_13888640.png"} 
                 titulo={"JÚPITER"}
                 texto={"Júpiter é o maior planeta do Sistema Solar, tanto em diâmetro quanto em massa, e é o quinto mais próximo do Sol. Possui menos de um milésimo da massa solar, contudo tem 2,5 vezes a massa de todos os outros planetas em conjunto."} 
