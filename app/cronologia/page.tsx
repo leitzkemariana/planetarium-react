@@ -5,9 +5,11 @@ export default function Cronologia(){
     return(
         <div>
             <Menu/>
-            <main className="p-10">
+            <main className="p-10 bg-black">
                 <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-800 leading-tight">Linha do Tempo</h1>
                 <h2 className="text-gray-200">Principais Marcos da Exploração Espacial</h2>
+                <hr/>
+                <br/>
                 <PontoCronologico ano={1957} titulo="Sputnik 1 - URSS " texto="O primeiro satélite artificial."/>
                 <img className="h-60 w-120 object-contain" src={"https://upload.wikimedia.org/wikipedia/commons/b/be/Sputnik_asm.jpg"}/>
                 <PontoCronologico ano={1957} titulo="Sputnik 2 - URSS " texto="Levava a bordo a cadela Laika, primeiro ser vivo a orbitar a Terra."/>
