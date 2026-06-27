@@ -6,7 +6,7 @@ export default function Gasosos(){
     return (
         <div>
             <Menu/>
-            <main className="p-10">
+            <main className="p-10 bg-black">
                 <PostEsquerda urlImagem={"https://png.pngtree.com/png-clipart/20220705/ourmid/pngtree-mercury-planet-png-image_5683897.png"} 
                 titulo={"MERCÚRIO"}
                 texto={"Mercúrio é o menor e mais interno planeta do Sistema Solar, orbitando o Sol a cada 87,969 dias terrestres. A sua órbita tem a maior excentricidade e o seu eixo apresenta a menor inclinação em relação ao plano da órbita dentre todos os planetas do Sistema Solar."} 
