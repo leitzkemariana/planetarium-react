@@ -1,0 +1,10 @@
+:HL["/_next/static/chunks/3mqfiuxa4v33h.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://upload.wikimedia.org/wikipedia/commons/b/be/Sputnik_asm.jpg","image"]
+:HL["https://upload.wikimedia.org/wikipedia/pt/thumb/b/be/Laika_%28cadela%29.jpg/330px-Laika_%28cadela%29.jpg","image"]
+:HL["https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/51/9d/519d62e6-7ef5-4e17-822a-7fec2315e906/mariner-4_image2.jpg__1240x510_q85_crop_subject_location-578%2C336_subsampling-2.jpg","image"]
+:HL["https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Apollo_11_Crew.jpg/330px-Apollo_11_Crew.jpg","image"]
+:HL["https://planetary.s3.amazonaws.com/web/assets/pictures/_1200x630_crop_center-center_82_none/sagan_viking.jpg?mtime=1753481893","image"]
+:HL["https://upload.wikimedia.org/wikipedia/commons/3/3f/HST-SM4.jpeg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"cronologia","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ICuxQPfx8tGF4seow4-ld"}

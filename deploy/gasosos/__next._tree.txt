@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/3mqfiuxa4v33h.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://png.pngtree.com/png-vector/20240923/ourmid/pngtree-jupiter-planet-image-on-white-background-png-image_13888640.png","image"]
+:HL["https://static.vecteezy.com/system/resources/thumbnails/043/576/202/small/saturn-planet-on-isolated-transparent-background-png.png","image"]
+:HL["https://static.vecteezy.com/system/resources/thumbnails/049/514/932/small/a-detailed-view-of-the-planet-uranus-showcasing-its-distinctive-blue-color-and-atmospheric-bands-captured-from-space-transparent-png.png","image"]
+:HL["https://static.vecteezy.com/system/resources/thumbnails/065/984/880/small/neptune-planet-space-isolated-on-transparent-background-png.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"gasosos","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ICuxQPfx8tGF4seow4-ld"}
